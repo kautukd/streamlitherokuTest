@@ -5,9 +5,9 @@ from sklearn.ensemble import RandomForestClassifier
 import pickle
 
 st.write("""
-# Credit Card Approval Prediction App
+# Kautuk's Credit Card Approval Prediction App
 
-This app predicts the credit card approval probablity
+This app tries to predict the credit card approval probablity
 """)
 #Get Input
 
